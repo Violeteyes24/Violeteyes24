@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Violeteyes24
-- 👀 I’m interested in ... passing 1st year college
-- 🌱 I’m currently learning ...c language
-- 💞️ I’m looking to collaborate on ...anyone, pls help me
-- 📫 How to reach me ...miuxmaika@gmail.com
+- 👀 I’m interested in technology as well as self development
+- 🌱 I’m currently learning ... JAVA and PHP
+- 💞️ I’m looking forward for future collaborations or a deep talk would do.
+- 📫 How to reach me ...gmzach024@gmail.com
 
 <!---
 Violeteyes24/Violeteyes24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
