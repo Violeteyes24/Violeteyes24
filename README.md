@@ -8,9 +8,9 @@ A third-year BSIT student, aiming to deepen their knowledge of technology and, a
 
 * 🌍  I'm based in Philippines, Bohol
 * ✉️  You can contact me at [gmzach024@gmail.com](mailto:gmzach024@gmail.com)
-* 🧠  I'm learning Flutter and Firebase
-* 🤝  I'm open to collaborating on GDSC events
-* ⚡  While fate may seem like it's playing cruel jokes on you... only fate will not deceive you.
+* 🧠  I'm learning NextJS, React Native and Supabase.
+* 🤝  I'm open to any job offers
+* ⚡  To embrace nihility is to accept that even the brightest constellations will one day dissolve into darkness.
 
 ### Skills
 
