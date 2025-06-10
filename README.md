@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 GDSC HNU Lead '24
 -----------------
 
-A third-year BSIT student, aiming to deepen their knowledge of technology and, above all, dedicated to personal growth.
+A BSIT Fresh Graduate, aiming to deepen their knowledge of technology and, above all, dedicated to personal growth.
 
 * 🌍  I'm based in Philippines, Bohol
 * ✉️  You can contact me at [gmzach024@gmail.com](mailto:gmzach024@gmail.com)
